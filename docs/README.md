@@ -1,7 +1,7 @@
 # <b> Duke Pro User Guide </b>
 
 > <p align="center">What did I need to do again? - <s>You</s> Me, <b>everyday</b> </p>
-<p> Ever forgot what you needed to do? :frowning_face: Now you won't! :relieved: </p>
+<p> Ever forgot what you needed to do? Now you won't! </p>
 
 With Duke Pro, you now have an easy way to remember tasks, deadlines and important events.
 It is:
@@ -23,30 +23,30 @@ Features supported:
 
 ## <b> Features </b>
 
-### [Add Tasks](#adding-tasks-back-to-features)
+### [Add Tasks](#-adding-tasks-back-to-features)
 <p> Add new tasks to your task list.</p>
 
-### [List all task](#list-all-tasks-back-to-features)
+### [List all task](#-list-all-tasks-back-to-features)
 <p> View your tasks in a list.</p>
 
-### [Sort Tasks](#sort-tasks-back-to-features)
+### [Sort Tasks](#-sort-tasks-back-to-features)
 <p> Sort your task list by name or by date.</p> 
 
-### [Delete Tasks](#delete-tasks-back-to-features)
+### [Delete Tasks](#-delete-tasks-back-to-features)
 <p> Delete tasks in your task list.</p>
 
-### [Mark Tasks](#mark-tasks-back-to-features)
+### [Mark Tasks](#-mark-tasks-back-to-features)
 <p> Mark the specific task as done or not done.</p>
 
-### [Update Tasks](#update-tasks-back-to-features)
+### [Update Tasks](#-update-tasks-back-to-features)
 <p> Change the date or name of your task.</p>
 
-### [Find Tasks](#find-tasks-back-to-features)
+### [Find Tasks](#-find-tasks-back-to-features)
 <p> View all tasks that contains the keyword.</p>
 
 ## <b> Usage </b>
 
-### <u>Adding Tasks [(Back to features)](#-features-)</u>
+### <u>Adding Tasks [(Back to features)](#-features)</u>
 * #### `todo <Task Name>`
 Add a new To Do task with a specified task name. <br>
 
